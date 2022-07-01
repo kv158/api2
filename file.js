@@ -1,10 +1,6 @@
  {
     "userId": 1,
     "id": 1,
-    "title":"    jesi krasna,
-                 જેસી ક્રસ્ના,
-                 keep motiveting,
-                 by
-                 krushal vataliya",
+    "title":"this is thought of the day",
      "completed": false
   }
